@@ -1,0 +1,4 @@
+{
+  "name": "ipl-backend",
+  "main": "src/server.js"
+}
